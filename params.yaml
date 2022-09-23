@@ -1,0 +1,8 @@
+model: "sl3"
+pyramid_levels: 4
+pyramid_scale: 1
+weighted: false
+# Number of iterations to perform per pyramid level
+iterations: [40, 60, 90, 180]
+weighting_policy: "" # weighted, robust
+method: "" # IC or ESM
