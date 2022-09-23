@@ -1,5 +1,8 @@
 # Inverse Compositional Lucas Kanade Tracker
 
-|           Affine              |               Translation                |                 Sim2                  |            SL3          |
-|-------------------------------|:----------------------------------------:|:-------------------------------------:|------------------------:|
-| ![affine_gif](gif/affine.gif) | ![translation_gif](gif/translation.gif)  | ![sim2_gif](gif/sim2.gif)             | ![sl3_gif](gif/sl3.gif) |
+|                         Models                         |
+|:------------------------------------------------------:|
+| Affine<br>![affine_gif](gif/affine.gif)                |
+| Translation<br>![translation_gif](gif/translation.gif) |
+| Sim2<br>![sim2_gif](gif/sim2.gif)                      |
+| SL3<br>![sl3_gif](gif/sl3.gif)                         |
